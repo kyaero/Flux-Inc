@@ -1,0 +1,33 @@
+.careerslist {
+    margin-top: 32px;
+    width: 90%;
+    max-width: 650px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.careernav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 16px;
+}
+
+.careermeta {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+}
+
+.careercontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+footer {
+    margin: 0px;
+    margin-top: 32px;
+    padding: 20px;
+}
